@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Моя галерея - Solana Auction</title>
+    <link rel="icon" href="/images/auction.svg" type="image/x-icon">
+    <link rel="stylesheet" href="css/styles-sandbox.css">
+    <link rel="stylesheet" href="css/styles-gallery.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-left">
+            <a href="#" class="logo">Solana Auction</a>
+        </div>
+        <div class="navbar-right">
+            <a href="index.html" class="nav-link">Главная</a>
+            <a href="#auctions" class="nav-link">Аукционы</a>
+            <a href="#my-nfts" class="nav-link">Мои NFT</a>
+            <a href="gallery.html" class="nav-link active">Моя галерея</a>
+            <a href="my-account.html" class="nav-link">Мой аккаунт</a>
+            <a href="sandbox.html" class="nav-link">Песочница</a> <!-- Добавленная кнопка -->
+            <button id="connectWallet" class="wallet-button">Подключить Phantom</button>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1 class="page-title">
+            <img src="/images/gallery.svg" alt="Иконка галереи" class="title-icon">
+            <span>Моя галерея</span>
+        </h1>
+        <div id="errorMessage" class="error-alert hidden"></div>
+
+        <button id="uploadBtn" class="primary-btn">
+            <span class="btn-icon">📤</span> Импортировать
+        </button>
+
+        <div class="gallery-states">
+            <div id="galleryContainer" class="gallery-grid"></div>
+        </div>
+        <input type="file" id="fileInput" hidden accept="image/*">
+
+        <!-- Модальное окно для импорта изображения -->
+        <div id="uploadModal" class="modal hidden">
+            <div class="modal-content">
+                <span class="close-modal">&times;</span>
+                <img id="previewImage" src="" alt="Превью изображения" class="modal-image">
+                <div class="form-body">
+                    <div class="form-group">
+                        <label>Название</label>
+                        <input type="text" id="modalImageName" class="form-input" placeholder="Введите название">
+                    </div>
+                    <div class="form-group">
+                        <label>Описание</label>
+                        <textarea id="modalImageDesc" class="form-input" rows="3" placeholder="Введите описание"></textarea>
+                    </div>
+                    <div class="form-actions">
+                        <button class="secondary-btn" id="cancelUpload">Отмена</button>
+                        <button class="primary-btn" id="confirmUpload">Сохранить</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="imageDetailsModal" class="modal hidden">
+            <div class="modal-content">
+                <img id="detailsImage" class="details-image">
+                <div class="image-meta">
+                    <h2 id="detailsTitle"></h2>
+                    <p id="detailsDescription"></p>
+                    <div class="image-stats">
+                        <span id="detailsDate"></span>
+                        <span id="detailsViews"></span>
+                    </div>
+                    <button class="close-modal">&times;</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Подключаем скрипт -->
+    <script type="module" src="/js/gallery.js"></script>
+</body>
+</html>

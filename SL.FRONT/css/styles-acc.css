@@ -1,0 +1,165 @@
+/* Базовые стили */
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #0f172a;
+  color: #f8fafc;
+}
+
+.profile-card {
+  background: #1e293b;
+  border-radius: 12px;
+  padding: 2rem;
+  margin-top: 1.5rem;
+}
+
+.edit-btn {
+  background: #3b82f6;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none !important;
+}
+
+#usernameForm {
+  margin-top: 1rem;
+  display: flex;
+  gap: 8px;
+}
+
+#newUsername {
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #334155;
+  background: #1e293b;
+  color: white;
+}
+
+/* Стили для иконок через <img> */
+.account-icon {
+  width: 32px;
+  height: 32px;
+  margin-right: 12px;
+  object-fit: contain;
+}
+
+.edit-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: none;
+  border: 1px solid #e2e8f0;
+  padding: 8px 16px;
+  transition: all 0.3s;
+}
+
+.edit-btn:hover {
+  background: #f8fafc;
+}
+
+.edit-icon {
+  width: 18px;
+  height: 18px;
+  filter: invert(40%) sepia(10%) saturate(900%) hue-rotate(180deg);
+}
+.wallet-button {
+  background-color: #03dac6;
+  border: none;
+  padding: 0.5rem 1rem;
+  color: #000;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: bold;
+}
+/* Стили для индикатора загрузки */
+.loading-spinner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.spinner {
+  border: 4px solid rgba(255, 255, 255, 0.3);
+  border-top: 4px solid #3b82f6;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.loading-spinner p {
+  color: #f8fafc;
+  font-size: 1rem;
+}
+
+@media (max-width: 768px) {
+  .account-icon {
+      width: 24px;
+      height: 24px;
+  }
+  
+  .edit-icon {
+      width: 16px;
+      height: 16px;
+  }
+}
+
+
+
+/* Навигационная панель */
+.navbar {
+  background-color: #1a1a1a;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #333;
+}
+
+.navbar-left .logo {
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navbar-right {
+  display: flex;
+  gap: 1.5rem; /* Уменьшаем расстояние между пунктами */
+  align-items: center;
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: color 0.3s;
+}
+
+.nav-link:hover {
+  color: #03dac6;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+      flex-direction: column;
+      padding: 1rem;
+  }
+  .navbar-right {
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1rem;
+      margin-top: 1rem;
+  }
+}

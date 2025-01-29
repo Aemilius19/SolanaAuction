@@ -1,0 +1,859 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.endpoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|solutionrelative:sl.endpoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.bussines\\services\\concretes\\blockchainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|solutionrelative:sl.bussines\\services\\concretes\\blockchainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.bussines\\services\\concretes\\nftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|solutionrelative:sl.bussines\\services\\concretes\\nftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43B48DC-415D-4AFA-864A-DCC9E4F03CD8}|SL.Application\\SL.Application.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.application\\migrations\\20250114144832_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43B48DC-415D-4AFA-864A-DCC9E4F03CD8}|SL.Application\\SL.Application.csproj|solutionrelative:sl.application\\migrations\\20250114144832_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43B48DC-415D-4AFA-864A-DCC9E4F03CD8}|SL.Application\\SL.Application.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.application\\migrations\\20250114144832_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43B48DC-415D-4AFA-864A-DCC9E4F03CD8}|SL.Application\\SL.Application.csproj|solutionrelative:sl.application\\migrations\\20250114144832_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43B48DC-415D-4AFA-864A-DCC9E4F03CD8}|SL.Application\\SL.Application.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.application\\data\\context\\sldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43B48DC-415D-4AFA-864A-DCC9E4F03CD8}|SL.Application\\SL.Application.csproj|solutionrelative:sl.application\\data\\context\\sldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43B48DC-415D-4AFA-864A-DCC9E4F03CD8}|SL.Application\\SL.Application.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.application\\sl.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C43B48DC-415D-4AFA-864A-DCC9E4F03CD8}|SL.Application\\SL.Application.csproj|solutionrelative:sl.application\\sl.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shiimerryPC\\source\\repos\\SL.Api\\SL.API\\APPLICATION\\APPLICATION.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.bussines\\sl.bussines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|solutionrelative:sl.bussines\\sl.bussines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.endpoints\\sl.endpoints.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|solutionrelative:sl.endpoints\\sl.endpoints.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.endpoints\\sl.endpoints.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|solutionrelative:sl.endpoints\\sl.endpoints.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\sl.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\sl.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.bussines\\services\\concretes\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|solutionrelative:sl.bussines\\services\\concretes\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.endpoints\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|solutionrelative:sl.endpoints\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.bussines\\services\\abstractions\\iblockchainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|solutionrelative:sl.bussines\\services\\abstractions\\iblockchainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.endpoints\\controllers\\nftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|solutionrelative:sl.endpoints\\controllers\\nftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\dto\u0027s\\mintnftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\dto\u0027s\\mintnftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.bussines\\services\\concretes\\ipfsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|solutionrelative:sl.bussines\\services\\concretes\\ipfsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.endpoints\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|solutionrelative:sl.endpoints\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\dto\u0027s\\nftmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\dto\u0027s\\nftmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.bussines\\services\\abstractions\\inftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|solutionrelative:sl.bussines\\services\\abstractions\\inftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\entities\\nft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\entities\\nft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.bussines\\services\\abstractions\\iipfsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|solutionrelative:sl.bussines\\services\\abstractions\\iipfsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.bussines\\services\\concretes\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|solutionrelative:sl.bussines\\services\\concretes\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\dto\u0027s\\updatenftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\dto\u0027s\\updatenftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\dto\u0027s\\transfernftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\dto\u0027s\\transfernftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.endpoints\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|solutionrelative:sl.endpoints\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.endpoints\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|solutionrelative:sl.endpoints\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\dto\u0027s\\imagegenerationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\dto\u0027s\\imagegenerationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\dto\u0027s\\saveimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\dto\u0027s\\saveimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\dto\u0027s\\imagegenerationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\dto\u0027s\\imagegenerationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\dto\u0027s\\changeusernamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\dto\u0027s\\changeusernamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.bussines\\services\\abstractions\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|solutionrelative:sl.bussines\\services\\abstractions\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.bussines\\services\\abstractions\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|solutionrelative:sl.bussines\\services\\abstractions\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\dto\u0027s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\dto\u0027s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.bussines\\services\\concretes\\auctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|solutionrelative:sl.bussines\\services\\concretes\\auctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.endpoints\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7F3D44-7D4A-48B8-9648-575C6BB2F388}|SL.Endpoints\\SL.Endpoints.csproj|solutionrelative:sl.endpoints\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\dto\u0027s\\closeauctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\dto\u0027s\\closeauctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\dto\u0027s\\biddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\dto\u0027s\\biddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\dto\u0027s\\createauctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\dto\u0027s\\createauctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.bussines\\services\\abstractions\\iauctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B3A499-A9D7-4402-87B3-DA6E89642F0C}|SL.Bussines\\SL.Bussines.csproj|solutionrelative:sl.bussines\\services\\abstractions\\iauctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\entities\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\entities\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\helper\\openairesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\helper\\openairesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\helper\\openaiimagedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\helper\\openaiimagedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\helper\\openaisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\helper\\openaisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|c:\\users\\shiimerrypc\\desktop\\solanaauction\\sl.api\\sl.core\\dto\u0027s\\changewalletaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7B239-CF3A-4E6F-9D9D-D6431EB50C11}|SL.Core\\SL.Core.csproj|solutionrelative:sl.core\\dto\u0027s\\changewalletaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Abstractions\\IUserService.cs",
+              "RelativeDocumentMoniker": "SL.Bussines\\Services\\Abstractions\\IUserService.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Abstractions\\IUserService.cs",
+              "RelativeToolTip": "SL.Bussines\\Services\\Abstractions\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:22:01.84Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Concretes\\UserService.cs",
+              "RelativeDocumentMoniker": "SL.Bussines\\Services\\Concretes\\UserService.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Concretes\\UserService.cs",
+              "RelativeToolTip": "SL.Bussines\\Services\\Concretes\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:24:01.564Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "SL.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Entities\\User.cs",
+              "RelativeToolTip": "SL.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:33:18.653Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SlDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Application\\Data\\Context\\SlDbContext.cs",
+              "RelativeDocumentMoniker": "SL.Application\\Data\\Context\\SlDbContext.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Application\\Data\\Context\\SlDbContext.cs",
+              "RelativeToolTip": "SL.Application\\Data\\Context\\SlDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:32:09.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "APPLICATION.csproj",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\source\\repos\\SL.Api\\SL.API\\APPLICATION\\APPLICATION.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SL.Api\\SL.API\\APPLICATION\\APPLICATION.csproj",
+              "ToolTip": "C:\\Users\\shiimerryPC\\source\\repos\\SL.Api\\SL.API\\APPLICATION\\APPLICATION.csproj",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SL.Api\\SL.API\\APPLICATION\\APPLICATION.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T13:15:19.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SL.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\SL.Core.csproj",
+              "RelativeDocumentMoniker": "SL.Core\\SL.Core.csproj",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\SL.Core.csproj",
+              "RelativeToolTip": "SL.Core\\SL.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T12:56:26.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\Program.cs",
+              "RelativeDocumentMoniker": "SL.Endpoints\\Program.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\Program.cs",
+              "RelativeToolTip": "SL.Endpoints\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADgv04AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:41:25.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NftService.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Concretes\\NftService.cs",
+              "RelativeDocumentMoniker": "SL.Bussines\\Services\\Concretes\\NftService.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Concretes\\NftService.cs",
+              "RelativeToolTip": "SL.Bussines\\Services\\Concretes\\NftService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:48:40.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlockChainService.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Concretes\\BlockChainService.cs",
+              "RelativeDocumentMoniker": "SL.Bussines\\Services\\Concretes\\BlockChainService.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Concretes\\BlockChainService.cs",
+              "RelativeToolTip": "SL.Bussines\\Services\\Concretes\\BlockChainService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:01:56.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SL.Application",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Application\\SL.Application.csproj",
+              "RelativeDocumentMoniker": "SL.Application\\SL.Application.csproj",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Application\\SL.Application.csproj",
+              "RelativeToolTip": "SL.Application\\SL.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T13:35:05.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250114144832_init.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Application\\Migrations\\20250114144832_init.Designer.cs",
+              "RelativeDocumentMoniker": "SL.Application\\Migrations\\20250114144832_init.Designer.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Application\\Migrations\\20250114144832_init.Designer.cs",
+              "RelativeToolTip": "SL.Application\\Migrations\\20250114144832_init.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:35:30.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250114144832_init.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Application\\Migrations\\20250114144832_init.cs",
+              "RelativeDocumentMoniker": "SL.Application\\Migrations\\20250114144832_init.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Application\\Migrations\\20250114144832_init.cs",
+              "RelativeToolTip": "SL.Application\\Migrations\\20250114144832_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:35:26.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SL.Endpoints.http",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\SL.Endpoints.http",
+              "RelativeDocumentMoniker": "SL.Endpoints\\SL.Endpoints.http",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\SL.Endpoints.http",
+              "RelativeToolTip": "SL.Endpoints\\SL.Endpoints.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-29T12:18:51.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SL.Endpoints.csproj",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\SL.Endpoints.csproj",
+              "RelativeDocumentMoniker": "SL.Endpoints\\SL.Endpoints.csproj",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\SL.Endpoints.csproj",
+              "RelativeToolTip": "SL.Endpoints\\SL.Endpoints.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T15:08:29.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SL.Bussines.csproj",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\SL.Bussines.csproj",
+              "RelativeDocumentMoniker": "SL.Bussines\\SL.Bussines.csproj",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\SL.Bussines.csproj",
+              "RelativeToolTip": "SL.Bussines\\SL.Bussines.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T12:56:51.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SL.Endpoints\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SL.Endpoints\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T12:18:31.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBlockChainService.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Abstractions\\IBlockChainService.cs",
+              "RelativeDocumentMoniker": "SL.Bussines\\Services\\Abstractions\\IBlockChainService.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Abstractions\\IBlockChainService.cs",
+              "RelativeToolTip": "SL.Bussines\\Services\\Abstractions\\IBlockChainService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:58:44.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IpfsService.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Concretes\\IpfsService.cs",
+              "RelativeDocumentMoniker": "SL.Bussines\\Services\\Concretes\\IpfsService.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Concretes\\IpfsService.cs",
+              "RelativeToolTip": "SL.Bussines\\Services\\Concretes\\IpfsService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:53:02.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MintNftDto.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\MintNftDto.cs",
+              "RelativeDocumentMoniker": "SL.Core\\DTO\u0027s\\MintNftDto.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\MintNftDto.cs",
+              "RelativeToolTip": "SL.Core\\DTO\u0027s\\MintNftDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:34:33.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NftController.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\Controllers\\NftController.cs",
+              "RelativeDocumentMoniker": "SL.Endpoints\\Controllers\\NftController.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\Controllers\\NftController.cs",
+              "RelativeToolTip": "SL.Endpoints\\Controllers\\NftController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:34:05.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "SL.Endpoints\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "SL.Endpoints\\Controllers\\ImageController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:20:21.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NftMetadata.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\NftMetadata.cs",
+              "RelativeDocumentMoniker": "SL.Core\\DTO\u0027s\\NftMetadata.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\NftMetadata.cs",
+              "RelativeToolTip": "SL.Core\\DTO\u0027s\\NftMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T08:22:44.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "INftService.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Abstractions\\INftService.cs",
+              "RelativeDocumentMoniker": "SL.Bussines\\Services\\Abstractions\\INftService.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Abstractions\\INftService.cs",
+              "RelativeToolTip": "SL.Bussines\\Services\\Abstractions\\INftService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:06:28.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Nft.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Entities\\Nft.cs",
+              "RelativeDocumentMoniker": "SL.Core\\Entities\\Nft.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Entities\\Nft.cs",
+              "RelativeToolTip": "SL.Core\\Entities\\Nft.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:36:34.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Entities\\Image.cs",
+              "RelativeDocumentMoniker": "SL.Core\\Entities\\Image.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Entities\\Image.cs",
+              "RelativeToolTip": "SL.Core\\Entities\\Image.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:35:54.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IIpfsService.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Abstractions\\IIpfsService.cs",
+              "RelativeDocumentMoniker": "SL.Bussines\\Services\\Abstractions\\IIpfsService.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Abstractions\\IIpfsService.cs",
+              "RelativeToolTip": "SL.Bussines\\Services\\Abstractions\\IIpfsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:52:05.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Concretes\\ImageService.cs",
+              "RelativeDocumentMoniker": "SL.Bussines\\Services\\Concretes\\ImageService.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Concretes\\ImageService.cs",
+              "RelativeToolTip": "SL.Bussines\\Services\\Concretes\\ImageService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:18:17.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateNftDto.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\UpdateNftDto.cs",
+              "RelativeDocumentMoniker": "SL.Core\\DTO\u0027s\\UpdateNftDto.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\UpdateNftDto.cs",
+              "RelativeToolTip": "SL.Core\\DTO\u0027s\\UpdateNftDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:35:04.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TransferNftDto.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\TransferNftDto.cs",
+              "RelativeDocumentMoniker": "SL.Core\\DTO\u0027s\\TransferNftDto.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\TransferNftDto.cs",
+              "RelativeToolTip": "SL.Core\\DTO\u0027s\\TransferNftDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:35:32.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SL.Endpoints\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SL.Endpoints\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:56:57.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "SL.Core\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "SL.Core\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:32:15.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\appsettings.json",
+              "RelativeDocumentMoniker": "SL.Endpoints\\appsettings.json",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\appsettings.json",
+              "RelativeToolTip": "SL.Endpoints\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T13:42:54.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ImageGenerationResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\ImageGenerationResponseDto.cs",
+              "RelativeDocumentMoniker": "SL.Core\\DTO\u0027s\\ImageGenerationResponseDto.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\ImageGenerationResponseDto.cs",
+              "RelativeToolTip": "SL.Core\\DTO\u0027s\\ImageGenerationResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:52:54.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SaveImageDto.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\SaveImageDto.cs",
+              "RelativeDocumentMoniker": "SL.Core\\DTO\u0027s\\SaveImageDto.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\SaveImageDto.cs",
+              "RelativeToolTip": "SL.Core\\DTO\u0027s\\SaveImageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:27:39.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ImageGenerationDto.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\ImageGenerationDto.cs",
+              "RelativeDocumentMoniker": "SL.Core\\DTO\u0027s\\ImageGenerationDto.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\ImageGenerationDto.cs",
+              "RelativeToolTip": "SL.Core\\DTO\u0027s\\ImageGenerationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:12:31.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ChangeUsernameDto.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\ChangeUsernameDto.cs",
+              "RelativeDocumentMoniker": "SL.Core\\DTO\u0027s\\ChangeUsernameDto.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\ChangeUsernameDto.cs",
+              "RelativeToolTip": "SL.Core\\DTO\u0027s\\ChangeUsernameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:49:48.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Abstractions\\IImageService.cs",
+              "RelativeDocumentMoniker": "SL.Bussines\\Services\\Abstractions\\IImageService.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Abstractions\\IImageService.cs",
+              "RelativeToolTip": "SL.Bussines\\Services\\Abstractions\\IImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:13:44.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\UserDto.cs",
+              "RelativeDocumentMoniker": "SL.Core\\DTO\u0027s\\UserDto.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\UserDto.cs",
+              "RelativeToolTip": "SL.Core\\DTO\u0027s\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:35:18.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AuctionService.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Concretes\\AuctionService.cs",
+              "RelativeDocumentMoniker": "SL.Bussines\\Services\\Concretes\\AuctionService.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Concretes\\AuctionService.cs",
+              "RelativeToolTip": "SL.Bussines\\Services\\Concretes\\AuctionService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wBoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:57:16.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AuctionController.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\Controllers\\AuctionController.cs",
+              "RelativeDocumentMoniker": "SL.Endpoints\\Controllers\\AuctionController.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\Controllers\\AuctionController.cs",
+              "RelativeToolTip": "SL.Endpoints\\Controllers\\AuctionController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T16:24:32.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CloseAuctionDto.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\CloseAuctionDto.cs",
+              "RelativeDocumentMoniker": "SL.Core\\DTO\u0027s\\CloseAuctionDto.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\CloseAuctionDto.cs",
+              "RelativeToolTip": "SL.Core\\DTO\u0027s\\CloseAuctionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T16:34:07.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BidDto.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\BidDto.cs",
+              "RelativeDocumentMoniker": "SL.Core\\DTO\u0027s\\BidDto.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\BidDto.cs",
+              "RelativeToolTip": "SL.Core\\DTO\u0027s\\BidDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T16:32:24.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreateAuctionDto.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\CreateAuctionDto.cs",
+              "RelativeDocumentMoniker": "SL.Core\\DTO\u0027s\\CreateAuctionDto.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\CreateAuctionDto.cs",
+              "RelativeToolTip": "SL.Core\\DTO\u0027s\\CreateAuctionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T16:31:36.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IAuctionService.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Abstractions\\IAuctionService.cs",
+              "RelativeDocumentMoniker": "SL.Bussines\\Services\\Abstractions\\IAuctionService.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Bussines\\Services\\Abstractions\\IAuctionService.cs",
+              "RelativeToolTip": "SL.Bussines\\Services\\Abstractions\\IAuctionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:56:51.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Auction.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Entities\\Auction.cs",
+              "RelativeDocumentMoniker": "SL.Core\\Entities\\Auction.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Entities\\Auction.cs",
+              "RelativeToolTip": "SL.Core\\Entities\\Auction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:38:35.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OpenAiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Helper\\OpenAiResponse.cs",
+              "RelativeDocumentMoniker": "SL.Core\\Helper\\OpenAiResponse.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Helper\\OpenAiResponse.cs",
+              "RelativeToolTip": "SL.Core\\Helper\\OpenAiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:53:44.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OpenAiImageData.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Helper\\OpenAiImageData.cs",
+              "RelativeDocumentMoniker": "SL.Core\\Helper\\OpenAiImageData.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Helper\\OpenAiImageData.cs",
+              "RelativeToolTip": "SL.Core\\Helper\\OpenAiImageData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:54:15.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OpenAiSettings.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Helper\\OpenAiSettings.cs",
+              "RelativeDocumentMoniker": "SL.Core\\Helper\\OpenAiSettings.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\Helper\\OpenAiSettings.cs",
+              "RelativeToolTip": "SL.Core\\Helper\\OpenAiSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:35:53.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ChangeWalletAddressDto.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\ChangeWalletAddressDto.cs",
+              "RelativeDocumentMoniker": "SL.Core\\DTO\u0027s\\ChangeWalletAddressDto.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Core\\DTO\u0027s\\ChangeWalletAddressDto.cs",
+              "RelativeToolTip": "SL.Core\\DTO\u0027s\\ChangeWalletAddressDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:49:33.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

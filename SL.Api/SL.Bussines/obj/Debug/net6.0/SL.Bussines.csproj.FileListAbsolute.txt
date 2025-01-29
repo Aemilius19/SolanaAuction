@@ -1,0 +1,5 @@
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Bussines\obj\Debug\net6.0\SL.Bussines.csproj.AssemblyReference.cache
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Bussines\obj\Debug\net6.0\SL.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Bussines\obj\Debug\net6.0\SL.Bussines.AssemblyInfoInputs.cache
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Bussines\obj\Debug\net6.0\SL.Bussines.AssemblyInfo.cs
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Bussines\obj\Debug\net6.0\SL.Bussines.csproj.CoreCompileInputs.cache

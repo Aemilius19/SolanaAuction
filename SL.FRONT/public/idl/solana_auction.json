@@ -1,0 +1,189 @@
+{
+  "address": "9WVwWe4cEgDQfKH9qx6nDqAuzcAAMWPpKmGrgtXsGVqt",
+  "metadata": {
+    "name": "solana_auction",
+    "version": "0.1.0",
+    "spec": "0.1.0",
+    "description": "Created with Anchor"
+  },
+  "instructions": [
+    {
+      "name": "lock_nft",
+      "discriminator": [
+        20,
+        204,
+        200,
+        74,
+        120,
+        226,
+        115,
+        6
+      ],
+      "accounts": [
+        {
+          "name": "nft",
+          "writable": true
+        },
+        {
+          "name": "user",
+          "signer": true
+        }
+      ],
+      "args": []
+    },
+    {
+      "name": "mint_nft",
+      "discriminator": [
+        211,
+        57,
+        6,
+        167,
+        15,
+        219,
+        35,
+        251
+      ],
+      "accounts": [
+        {
+          "name": "nft",
+          "writable": true,
+          "signer": true
+        },
+        {
+          "name": "user",
+          "writable": true,
+          "signer": true
+        },
+        {
+          "name": "mint",
+          "writable": true
+        },
+        {
+          "name": "token_account",
+          "writable": true
+        },
+        {
+          "name": "token_program",
+          "address": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        {
+          "name": "system_program",
+          "address": "11111111111111111111111111111111"
+        }
+      ],
+      "args": [
+        {
+          "name": "metadata_url",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "transfer_nft",
+      "discriminator": [
+        190,
+        28,
+        194,
+        8,
+        194,
+        218,
+        78,
+        78
+      ],
+      "accounts": [
+        {
+          "name": "nft",
+          "writable": true
+        },
+        {
+          "name": "user",
+          "signer": true
+        }
+      ],
+      "args": [
+        {
+          "name": "new_owner",
+          "type": "pubkey"
+        }
+      ]
+    },
+    {
+      "name": "unlock_nft",
+      "discriminator": [
+        162,
+        144,
+        82,
+        231,
+        137,
+        85,
+        213,
+        0
+      ],
+      "accounts": [
+        {
+          "name": "nft",
+          "writable": true
+        },
+        {
+          "name": "user",
+          "signer": true
+        }
+      ],
+      "args": []
+    }
+  ],
+  "accounts": [
+    {
+      "name": "Nft",
+      "discriminator": [
+        88,
+        10,
+        146,
+        176,
+        101,
+        11,
+        40,
+        217
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "code": 6000,
+      "name": "NftAlreadyLocked",
+      "msg": "NFT is already locked."
+    },
+    {
+      "code": 6001,
+      "name": "NftNotLocked",
+      "msg": "NFT is not locked."
+    },
+    {
+      "code": 6002,
+      "name": "NftLocked",
+      "msg": "NFT is locked and cannot be transferred."
+    }
+  ],
+  "types": [
+    {
+      "name": "Nft",
+      "type": {
+        "kind": "struct",
+        "fields": [
+          {
+            "name": "metadata_url",
+            "type": "string"
+          },
+          {
+            "name": "owner",
+            "type": "pubkey"
+          },
+          {
+            "name": "is_locked",
+            "type": "bool"
+          }
+        ]
+      }
+    }
+  ]
+}

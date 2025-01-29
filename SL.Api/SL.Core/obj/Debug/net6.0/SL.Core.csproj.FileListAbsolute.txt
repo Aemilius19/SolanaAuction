@@ -1,0 +1,14 @@
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Core\bin\Debug\net6.0\SL.Core.deps.json
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Core\bin\Debug\net6.0\SL.Core.runtimeconfig.json
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Core\bin\Debug\net6.0\SL.Core.dll
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Core\bin\Debug\net6.0\SL.Core.pdb
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Core\obj\Debug\net6.0\SL.Core.csproj.AssemblyReference.cache
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Core\obj\Debug\net6.0\SL.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Core\obj\Debug\net6.0\SL.Core.AssemblyInfoInputs.cache
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Core\obj\Debug\net6.0\SL.Core.AssemblyInfo.cs
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Core\obj\Debug\net6.0\SL.Core.csproj.CoreCompileInputs.cache
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Core\obj\Debug\net6.0\SL.Core.dll
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Core\obj\Debug\net6.0\refint\SL.Core.dll
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Core\obj\Debug\net6.0\SL.Core.pdb
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Core\obj\Debug\net6.0\SL.Core.genruntimeconfig.cache
+C:\Users\shiimerryPC\source\repos\SL.Api\SL.Core\obj\Debug\net6.0\ref\SL.Core.dll

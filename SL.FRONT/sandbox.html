@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sandbox</title>
+    <link rel="icon" href="/images/auction.svg" type="image/x-icon">
+    
+    <!-- Дополнительно: для современных браузеров (PNG) -->
+    <link rel="icon" href="/images/auction.svg" type="image/png">
+    
+    <!-- Для Apple устройств (iOS, Safari) -->
+    <link rel="apple-touch-icon" href="/images/auction.svg">
+    
+    <!-- Для Android -->
+    <link rel="manifest" href="/images/auction.svg">
+    <link rel="stylesheet" href="css/styles-sandbox.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-left">
+            <a href="#" class="logo">Solana Auction</a>
+        </div>
+        <div class="navbar-right">
+            <a href="index.html" class="nav-link">Главная</a>
+            <a href="#auctions" class="nav-link">Аукционы</a>
+            <a href="#my-nfts" class="nav-link">Мои NFT</a>
+            <a href="gallery.html" class="nav-link active">Моя галерея</a>
+            <a href="my-account.html" class="nav-link">Мой аккаунт</a>
+            <button id="connectWallet" class="wallet-button">Подключить Phantom</button>
+        </div>
+    </nav>
+    <!-- sandbox.html -->
+<div class="sandbox-container">
+    <div class="generation-section">
+        <div class="form-group">
+            <input type="text" 
+                   id="promptInput" 
+                   placeholder="Опишите изображение..."
+                   class="form-input"
+                   maxlength="100">
+            <span class="char-counter"><span id="charCount">0</span>/100</span>
+        </div>
+        <button id="generateBtn" class="primary-btn">
+            🎨 Сгенерировать
+        </button>
+    </div>
+
+    <!-- Измененный фрагмент HTML -->
+<div id="resultSection" class="hidden">
+    <div class="generated-image-container">
+        <div id="loadingSpinner" class="loading-spinner hidden">
+            <div class="spinner"></div>
+            <p>Генерация изображения...</p>
+        </div>
+        <img id="generatedImage" src="" alt="Сгенерированное изображение">
+    </div>
+    
+    <!-- Добавили кнопку для показа формы -->
+    <button id="showSaveFormBtn" class="primary-btn">
+        💾 Сохранить изображение
+    </button>
+    
+    <!-- Форма теперь в отдельном скрытом контейнере -->
+    <div id="saveFormContainer" class="hidden">
+        <div class="save-form">
+            <div class="form-group">
+                <input type="text" 
+                       id="imageName" 
+                       placeholder="Название изображения"
+                       class="form-input">
+            </div>
+            <div class="form-group">
+                <textarea id="imageDescription" 
+                          class="form-input" 
+                          placeholder="Описание изображения"
+                          rows="3"></textarea>
+            </div>
+            <button id="saveBtn" class="primary-btn">
+                ✅ Подтвердить сохранение
+            </button>
+        </div>
+    </div>
+</div>
+
+    <div id="statusMessage" class="status-message hidden"></div>
+</div>
+    <script src="js/sandbox.js"></script>
+</body>
+</html>

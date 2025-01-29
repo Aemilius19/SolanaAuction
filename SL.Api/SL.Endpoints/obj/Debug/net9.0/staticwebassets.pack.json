@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\wwwroot\\images\\6b23649a-8731-470b-900f-a1942bde2ac5\\0954142d-ffeb-4038-9f0d-667d145fb1b1.jpg",
+      "PackagePath": "staticwebassets\\images\\6b23649a-8731-470b-900f-a1942bde2ac5\\0954142d-ffeb-4038-9f0d-667d145fb1b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\wwwroot\\images\\6b23649a-8731-470b-900f-a1942bde2ac5\\72004d10-2ad4-4794-92db-562fe557fec0.jpg",
+      "PackagePath": "staticwebassets\\images\\6b23649a-8731-470b-900f-a1942bde2ac5\\72004d10-2ad4-4794-92db-562fe557fec0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\wwwroot\\images\\6b23649a-8731-470b-900f-a1942bde2ac5\\8f0cbace-2dba-4de9-bb99-afabdbbc97e8.jpg",
+      "PackagePath": "staticwebassets\\images\\6b23649a-8731-470b-900f-a1942bde2ac5\\8f0cbace-2dba-4de9-bb99-afabdbbc97e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\wwwroot\\images\\6b23649a-8731-470b-900f-a1942bde2ac5\\eaa49e06-0c34-439e-9cc0-8e2329152587.jpg",
+      "PackagePath": "staticwebassets\\images\\6b23649a-8731-470b-900f-a1942bde2ac5\\eaa49e06-0c34-439e-9cc0-8e2329152587.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\wwwroot\\images\\6b23649a-8731-470b-900f-a1942bde2ac5\\ecbaa1f9-9723-4e9c-b500-26decba9ce06.jpg",
+      "PackagePath": "staticwebassets\\images\\6b23649a-8731-470b-900f-a1942bde2ac5\\ecbaa1f9-9723-4e9c-b500-26decba9ce06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\wwwroot\\images\\6b23649a-8731-470b-900f-a1942bde2ac5\\f2736003-bbe8-44c9-949f-cc3284869c6d.jpg",
+      "PackagePath": "staticwebassets\\images\\6b23649a-8731-470b-900f-a1942bde2ac5\\f2736003-bbe8-44c9-949f-cc3284869c6d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shiimerryPC\\Desktop\\SolanaAuction\\SL.Api\\SL.Endpoints\\wwwroot\\images\\6b23649a-8731-470b-900f-a1942bde2ac5\\f2e0197d-c304-4593-915b-965d161e6b18.jpg",
+      "PackagePath": "staticwebassets\\images\\6b23649a-8731-470b-900f-a1942bde2ac5\\f2e0197d-c304-4593-915b-965d161e6b18.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SL.Endpoints.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SL.Endpoints.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.SL.Endpoints.props",
+      "PackagePath": "build\\SL.Endpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SL.Endpoints.props",
+      "PackagePath": "buildMultiTargeting\\SL.Endpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.SL.Endpoints.props",
+      "PackagePath": "buildTransitive\\SL.Endpoints.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

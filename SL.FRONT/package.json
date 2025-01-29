@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.30.1",
+    "@solana/spl-token": "^0.4.11",
+    "@solana/web3.js": "^1.98.0",
+    "buffer": "^6.0.3",
+    "fast-text-encoding": "^1.0.6",
+    "text-encoding": "^0.7.0"
+  },
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^6.0.11"
+  }
+}
